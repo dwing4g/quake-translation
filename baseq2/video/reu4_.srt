@@ -1,0 +1,44 @@
+1
+00:00:00,819 --> 00:00:03,960
+Initiate scan
+
+2
+00:00:06,152 --> 00:00:07,412
+Acquiring
+
+3
+00:00:09,366 --> 00:00:10,886
+Acquired
+
+4
+00:00:11,486 --> 00:00:12,953
+Personnel located
+
+5
+00:00:13,020 --> 00:00:16,153
+Anti-Matter Core and 
+Containment Pod secured
+
+6
+00:00:16,280 --> 00:00:18,933
+Now exiting...
+Munitions Plant
+
+7
+00:00:19,126 --> 00:00:21,032
+Locate Gravity Generator
+
+8
+00:00:22,252 --> 00:00:27,185
+Use Anti-Matter Bomb to 
+destroy Gravity Well
+Return to Research Hangar
+
+9
+00:00:27,252 --> 00:00:29,793
+Use experimental fighter for escape
+
+10
+00:00:30,145 --> 00:00:33,339
+End transmission...
+

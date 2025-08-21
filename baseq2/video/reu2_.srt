@@ -1,0 +1,37 @@
+1
+00:00:00,819 --> 00:00:03,286
+Initiate scan
+
+2
+00:00:04,793 --> 00:00:08,353
+Acquiring
+
+3
+00:00:08,886 --> 00:00:10,886
+Acquired
+
+4
+00:00:11,486 --> 00:00:12,953
+Personnel located
+
+5
+00:00:13,020 --> 00:00:15,207
+Ground to air transmission disrupted
+
+6
+00:00:15,740 --> 00:00:18,226
+Now exiting...
+Communication Facility
+
+7
+00:00:19,126 --> 00:00:20,606
+Locate Strogg Research Hangar
+
+8
+00:00:20,673 --> 00:00:24,046
+Secure and prep Strogg experimental fighter
+
+9
+00:00:25,406 --> 00:00:27,920
+End transmission...
+

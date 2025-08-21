@@ -1,0 +1,25 @@
+1
+00:00:00,819 --> 00:00:03,253
+Initiate scan
+
+2
+00:00:03,379 --> 00:00:07,493
+Acquiring
+
+3
+00:00:07,885 --> 00:00:09,451
+Acquired
+
+4
+00:00:11,831 --> 00:00:13,904
+Exiting Industrial Region
+
+5
+00:00:14,444 --> 00:00:16,710
+Entering Strogg Spaceport
+
+6
+00:00:17,750 --> 00:00:25,226
+Infiltrate Enemy Transport
+and proceed to Moon Base
+

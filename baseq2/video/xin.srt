@@ -1,0 +1,104 @@
+1
+00:00:02,859 --> 00:00:04,332
+COMMAND
+VSY Status check.
+
+2
+00:00:04,356 --> 00:00:06,042
+SQUAD LEADER
+All fine. We're going in.
+
+3
+00:00:06,066 --> 00:00:07,480
+SQUAD LEADER 2
+All green. All green.
+
+4
+00:00:07,505 --> 00:00:09,105
+COMMAND
+Private, primary problems?
+
+5
+00:00:09,129 --> 00:00:10,751
+JOKER
+Everything is online.
+
+6
+00:00:11,893 --> 00:00:13,000
+SQUAD LEADER
+Joker, how ya looking?
+
+7
+00:00:13,024 --> 00:00:13,710
+JOKER
+Looking good.
+
+8
+00:00:13,950 --> 00:00:16,110
+Pac stat is nominal profile
+
+9
+00:00:16,189 --> 00:00:17,882
+SQUAD LEADER
+Roger that. IR Nav engaged.
+
+10
+00:00:19,133 --> 00:00:20,117
+SQUAD LEADER
+Private, react.
+
+11
+00:00:20,185 --> 00:00:22,022
+JOKER
+Man it's a junkyard.
+
+12
+00:00:22,299 --> 00:00:23,309
+SQUAD LEADER
+Be careful down there.
+
+13
+00:00:23,333 --> 00:00:24,305
+JOKER
+See you on the surface.
+
+14
+00:00:25,719 --> 00:00:27,784
+Hang on, my navcom's going buggy.
+
+15
+00:00:27,852 --> 00:00:29,298
+Must be all the debris.
+
+16
+00:00:29,366 --> 00:00:29,734
+[Crash]
+
+17
+00:00:30,005 --> 00:00:31,645
+I'm hit. I'm hit!
+
+18
+00:00:32,647 --> 00:00:34,888
+Primary power is out.
+
+19
+00:00:35,964 --> 00:00:37,704
+Auxiliary is on and engaging.
+
+20
+00:00:39,276 --> 00:00:41,357
+I think I lost a fuel cell.
+
+21
+00:00:42,719 --> 00:00:44,105
+She's dead.
+
+22
+00:00:44,449 --> 00:00:46,357
+I'm going in. I'm going in!
+
+23
+00:00:46,425 --> 00:00:48,425
+[Explosion]
+

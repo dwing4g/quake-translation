@@ -1,0 +1,90 @@
+1
+00:00:00,000 --> 00:00:03,000
+STEPCHILD
+This is Private Stepchild calling to
+Deimos. Stepchild calling to Deimos.
+
+2
+00:00:03,000 --> 00:00:05,032
+I've planted the charges
+on the gravity well generator.
+
+3
+00:00:05,100 --> 00:00:07,058
+Inform all remaining ground
+troops to evacuate the area.
+
+4
+00:00:07,126 --> 00:00:09,581
+Copy that, Stepchild.
+Now get out of there.
+
+5
+00:00:09,649 --> 00:00:11,000
+DEIMOS
+Roger. Stepchild out.
+
+6
+00:00:11,000 --> 00:00:14,000
+SECURITY COMPUTER
+Security breach detected?
+You are not clear for takeoff.
+
+7
+00:00:14,000 --> 00:00:16,000
+STEPCHILD
+Shit! I'm not going to make it!
+
+8
+00:00:16,067 --> 00:00:18,067
+[Explosion]
+
+9
+00:00:28,000 --> 00:00:29,760
+STEPCHILD
+Stepchild to Deimos. Did it work?
+
+10
+00:00:29,828 --> 00:00:31,800
+DEIMOS
+Hell yes it worked, Private.
+
+11
+00:00:31,868 --> 00:00:34,952
+We're reporting total destruction
+of primary target and huge secondary chain
+
+12
+00:00:35,020 --> 00:00:38,000
+reaction explosions all
+across the planet's surface.
+
+13
+00:00:38,000 --> 00:00:40,000
+Nothing's living on that rock.
+
+14
+00:00:40,000 --> 00:00:41,000
+STEPCHILD
+What about the others?
+
+15
+00:00:41,000 --> 00:00:43,000
+DEIMOS
+There aren't that many
+left to retrieve, Stepchild.
+
+16
+00:00:43,000 --> 00:00:46,346
+You're one of the lucky few that
+made it out of that inferno in one piece.
+
+17
+00:00:47,733 --> 00:00:50,433
+STEPCHILD
+Let's get the hell out of here.
+
+18
+00:00:55,360 --> 00:00:57,373
+[Deimos Bay Doors Closing]
+

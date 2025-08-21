@@ -1,0 +1,25 @@
+1
+00:00:01,306 --> 00:00:03,359
+Initiate scan
+
+2
+00:00:04,699 --> 00:00:06,520
+Acquiring
+
+3
+00:00:07,475 --> 00:00:08,280
+Personnel located
+
+4
+00:00:09,214 --> 00:00:10,886
+Reactor shutdown successful
+
+5
+00:00:11,814 --> 00:00:16,060
+Infiltrate main Planetary Defense Facility 
+and destroy Big Gun
+
+6
+00:00:18,385 --> 00:00:21,459
+Airstrike standing by...
+

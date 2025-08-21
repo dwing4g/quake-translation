@@ -1,0 +1,29 @@
+1
+00:00:01,185 --> 00:00:03,106
+Initiate scan
+
+2
+00:00:04,497 --> 00:00:06,510
+Acquiring
+
+3
+00:00:06,578 --> 00:00:07,282
+Acquired
+
+4
+00:00:08,031 --> 00:00:09,304
+Personnel Located
+
+5
+00:00:09,371 --> 00:00:11,371
+Now existing...
+Base Area
+
+6
+00:00:14,697 --> 00:00:16,697
+Proceed to Bunker Area
+
+7
+00:00:16,764 --> 00:00:18,764
+Destroy Strogg Logistical Train
+

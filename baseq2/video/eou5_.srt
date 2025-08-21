@@ -1,0 +1,28 @@
+1
+00:00:01,306 --> 00:00:03,359
+Initiate scan
+
+2
+00:00:04,699 --> 00:00:06,520
+Acquiring
+
+3
+00:00:06,641 --> 00:00:07,407
+Acquired
+
+4
+00:00:07,475 --> 00:00:08,280
+Personnel located
+
+5
+00:00:09,214 --> 00:00:10,886
+Factory rendered inoperable
+
+6
+00:00:10,954 --> 00:00:15,314
+Proceed north to Big Gun Area
+
+7
+00:00:16,359 --> 00:00:19,433
+Infiltrate and destroy Strogg Main Reactor
+

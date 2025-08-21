@@ -1,0 +1,41 @@
+1
+00:00:00,819 --> 00:00:02,819
+Initiate scan
+
+2
+00:00:04,793 --> 00:00:06,793
+Acquiring
+
+3
+00:00:08,886 --> 00:00:10,886
+Acquired
+
+4
+00:00:11,486 --> 00:00:12,953
+Personnel located
+
+5
+00:00:13,020 --> 00:00:15,207
+Tectonic Stabilizer destroyed
+
+6
+00:00:15,740 --> 00:00:18,226
+Now exiting...
+Lower Mines
+
+7
+00:00:19,126 --> 00:00:20,606
+Locate Base Area
+
+8
+00:00:20,673 --> 00:00:24,046
+Infiltrate Main Strogg Communication Facility
+
+9
+00:00:24,113 --> 00:00:26,933
+Disrupt Strogg ground to air transmission
+
+10
+00:00:27,740 --> 00:00:29,740
+End transmission...
+

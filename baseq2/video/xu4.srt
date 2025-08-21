@@ -1,0 +1,20 @@
+1
+00:00:00,819 --> 00:00:03,253
+Initiate scan
+
+2
+00:00:10,932 --> 00:00:13,658
+Exiting Strogg Spaceport
+
+3
+00:00:13,726 --> 00:00:18,324
+Entering Moon Base
+
+4
+00:00:18,392 --> 00:00:21,391
+Prevent Strogg counter strike
+
+5
+00:00:21,459 --> 00:00:25,873
+TERMINATE ALL OPPOSITION
+

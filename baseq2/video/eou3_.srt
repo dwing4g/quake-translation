@@ -1,0 +1,28 @@
+1
+00:00:01,000 --> 00:00:03,000
+Initiate scan
+
+2
+00:00:04,766 --> 00:00:06,766
+Acquiring
+
+3
+00:00:07,699 --> 00:00:08,833
+Acquired
+
+4
+00:00:08,900 --> 00:00:10,900
+Personnel located
+
+5
+00:00:10,967 --> 00:00:12,967
+Exiting Security Grid Control Area
+
+6
+00:00:14,259 --> 00:00:15,879
+Entering Mines
+
+7
+00:00:15,946 --> 00:00:19,580
+Navigate the Mines and gain entrance to the Factory
+
