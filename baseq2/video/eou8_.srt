@@ -1,37 +1,37 @@
 1
 00:00:01,306 --> 00:00:03,359
-Initiate scan
+启动扫描
 
 2
 00:00:04,459 --> 00:00:05,466
-Acquiring
+正在获取
 
 3
 00:00:05,867 --> 00:00:06,540
-Acquired
+已获取
 
 4
 00:00:06,607 --> 00:00:08,174
-Personnel located
+人员已定位
 
 5
 00:00:08,867 --> 00:00:11,225
-Stroggos air threat neutralized
+斯托格空域威胁已解除
 
 6
 00:00:11,293 --> 00:00:13,700
-Black Hole Generator destroyed
+黑洞发生器已摧毁
 
 7
 00:00:14,430 --> 00:00:16,511
-Proceed to Palace Area
+前往宫殿区域
 
 8
 00:00:17,110 --> 00:00:20,392
-Locate Strogg leader,
-codename MAKRON...
+定位斯托格首领，
+代号：马克龙……
 
 9
 00:00:22,760 --> 00:00:25,040
-Terminate with extreme prejudice
+格杀勿论
 

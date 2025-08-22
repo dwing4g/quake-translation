@@ -1,20 +1,20 @@
 1
 00:00:00,819 --> 00:00:03,253
-Initiate scan
+启动扫描
 
 2
 00:00:10,932 --> 00:00:13,658
-Exiting Strogg Spaceport
+正在离开斯托格太空港
 
 3
 00:00:13,726 --> 00:00:18,324
-Entering Moon Base
+进入月球基地
 
 4
 00:00:18,392 --> 00:00:21,391
-Prevent Strogg counter strike
+阻止斯托格的反击
 
 5
 00:00:21,459 --> 00:00:25,873
-TERMINATE ALL OPPOSITION
+消灭所有抵抗力量
 

@@ -1,25 +1,25 @@
 1
 00:00:00,819 --> 00:00:03,253
-Initiate scan
+启动扫描
 
 2
 00:00:03,379 --> 00:00:07,493
-Acquiring
+正在获取
 
 3
 00:00:07,885 --> 00:00:09,451
-Acquired
+已获取
 
 4
 00:00:11,831 --> 00:00:13,904
-Exiting Industrial Region
+正在离开工业区
 
 5
 00:00:14,444 --> 00:00:16,710
-Entering Strogg Spaceport
+进入斯托格太空港
 
 6
 00:00:17,750 --> 00:00:25,226
-Infiltrate Enemy Transport
-and proceed to Moon Base
+渗透敌方运输舰
+并前往月球基地
 

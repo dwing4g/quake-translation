@@ -1,55 +1,55 @@
 1
 00:00:01,522 --> 00:00:03,554
-PILOT
-Come on! Move it! Move it!
+飞行员：
+快点！动起来！动起来！
 
 2
 00:00:03,579 --> 00:00:05,579
-Pressurizing negative twelve!
+加压至负十二！
 
 3
 00:00:05,646 --> 00:00:05,933
-[Explosion]
+[爆炸声]
 
 4
 00:00:06,000 --> 00:00:08,000
-Outer hatch sealed!
+外舱门已密封！
 
 5
 00:00:08,538 --> 00:00:10,055
-JOKER
-We're on our way, sir.
+小丑：
+我们正在路上，长官。
 
 6
 00:00:11,625 --> 00:00:12,312
-[Explosion]
+[爆炸声]
 
 7
 00:00:12,395 --> 00:00:13,617
-PILOT
-Picking up some heavy chop!
+飞行员：
+遇到一些剧烈颠簸！
 
 8
 00:00:13,642 --> 00:00:16,000
-JOKER
-I see it! Shockwave! Hang on!
+小丑：
+我看到了！冲击波！抓稳了！
 
 9
 00:00:16,067 --> 00:00:18,067
-[Explosion]
+[爆炸声]
 
 10
 00:00:23,196 --> 00:00:24,307
-PILOT
-That's it! We're clear!
+飞行员：
+好了！我们安全了！
 
 11
 00:00:28,426 --> 00:00:31,000
-JOKER
-What the hell happened out there, sir?
+小丑：
+长官，外面到底发生了什么？
 
 12
 00:00:32,126 --> 00:00:35,000
-COMMAND
-It's over. For now.
+指挥部：
+结束了。暂时。
 

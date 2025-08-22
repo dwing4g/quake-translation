@@ -1,33 +1,33 @@
 1
 00:00:00,819 --> 00:00:03,253
-Initiate scan
+启动扫描
 
 2
 00:00:03,379 --> 00:00:05,678
-Acquiring
+正在获取
 
 3
 00:00:05,746 --> 00:00:06,587
-Acquired
+已获取
 
 4
 00:00:06,854 --> 00:00:08,853
-Exiting Military Compound
+正在离开军事基地
 
 5
 00:00:10,018 --> 00:00:12,938
-Acquiring
+正在获取
 
 6
 00:00:13,684 --> 00:00:14,764
-Acquired
+已获取
 
 7
 00:00:15,191 --> 00:00:17,324
-Entering Industrial Region
+进入工业区
 
 8
 00:00:18,317 --> 00:00:25,326
-Locate and destroy Strogg 
-Fuel Production Facility
+定位并摧毁斯托格
+燃料生产设施
 

@@ -1,90 +1,90 @@
 1
 00:00:00,000 --> 00:00:03,000
-STEPCHILD
-This is Private Stepchild calling to
-Deimos. Stepchild calling to Deimos.
+继子：
+这里是列兵继子呼叫戴莫斯。
+继子呼叫戴莫斯。
 
 2
 00:00:03,000 --> 00:00:05,032
-I've planted the charges
-on the gravity well generator.
+我已在引力井发生器上
+安装了炸药。
 
 3
 00:00:05,100 --> 00:00:07,058
-Inform all remaining ground
-troops to evacuate the area.
+通知所有剩余地面部队
+撤离该区域。
 
 4
 00:00:07,126 --> 00:00:09,581
-Copy that, Stepchild.
-Now get out of there.
+收到，继子。
+现在快离开那里。
 
 5
 00:00:09,649 --> 00:00:11,000
-DEIMOS
-Roger. Stepchild out.
+戴莫斯：
+明白。继子，通讯完毕。
 
 6
 00:00:11,000 --> 00:00:14,000
-SECURITY COMPUTER
-Security breach detected?
-You are not clear for takeoff.
+安全电脑：
+检测到安全漏洞？
+您未被授权起飞。
 
 7
 00:00:14,000 --> 00:00:16,000
-STEPCHILD
-Shit! I'm not going to make it!
+继子：
+该死！我来不及了！
 
 8
 00:00:16,067 --> 00:00:18,067
-[Explosion]
+[爆炸声]
 
 9
 00:00:28,000 --> 00:00:29,760
-STEPCHILD
-Stepchild to Deimos. Did it work?
+继子：
+继子呼叫戴莫斯。成功了吗？
 
 10
 00:00:29,828 --> 00:00:31,800
-DEIMOS
-Hell yes it worked, Private.
+戴莫斯：
+当然成功了，列兵。
 
 11
 00:00:31,868 --> 00:00:34,952
-We're reporting total destruction
-of primary target and huge secondary chain
+我们报告主要目标
+彻底摧毁，
 
 12
 00:00:35,020 --> 00:00:38,000
-reaction explosions all
-across the planet's surface.
+并引发了遍布行星表面的
+巨大次生连锁爆炸。
 
 13
 00:00:38,000 --> 00:00:40,000
-Nothing's living on that rock.
+那个石头星球上什么活物都没了。
 
 14
 00:00:40,000 --> 00:00:41,000
-STEPCHILD
-What about the others?
+继子：
+那其他人呢？
 
 15
 00:00:41,000 --> 00:00:43,000
-DEIMOS
-There aren't that many
-left to retrieve, Stepchild.
+戴莫斯：
+继子，没剩下多少人
+可以撤离了。
 
 16
 00:00:43,000 --> 00:00:46,346
-You're one of the lucky few that
-made it out of that inferno in one piece.
+你是少数几个能从那片火海中
+全身而退的幸运儿之一。
 
 17
 00:00:47,733 --> 00:00:50,433
-STEPCHILD
-Let's get the hell out of here.
+继子：
+我们快离开这鬼地方吧。
 
 18
 00:00:55,360 --> 00:00:57,373
-[Deimos Bay Doors Closing]
+[戴莫斯号舱门关闭声]
 

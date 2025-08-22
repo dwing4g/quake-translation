@@ -1,28 +1,28 @@
 1
 00:00:01,000 --> 00:00:03,000
-Initiate scan
+启动扫描
 
 2
 00:00:03,958 --> 00:00:07,438
-Acquiring
+正在获取
 
 3
 00:00:07,505 --> 00:00:08,891
-Acquired
+已获取
 
 4
 00:00:08,959 --> 00:00:10,959
-Personnel located
+人员已定位
 
 5
 00:00:11,026 --> 00:00:13,026
-Exiting Warehouse area...
+正在离开仓库区域……
 
 6
 00:00:13,093 --> 00:00:15,520
-Entering Jail area
+进入监狱区域
 
 7
 00:00:15,587 --> 00:00:19,540
-Destroy Security Grid protecting industrial region
+摧毁保护工业区的安全网格
 

@@ -1,264 +1,264 @@
 1
 00:00:04,444 --> 00:00:08,278
-FIRST REPORTER
-The head of SETI will give a full press conference
- Today in the wake of the verified and authentic
+记者甲：
+SETI(搜寻地外文明计划)负责人将于
+今日召开新闻发布会，
 
 2
 00:00:08,346 --> 00:00:12,550
-non-terrestrial transmission
-coming from just beyond the asteroid
-belt in our solar system.
+此前已证实并确认，
+来自我们太阳系小行星带之外的
+非地球传输信号真实无误。
 
 3
 00:00:12,618 --> 00:00:15,585
-SECOND REPORTER
-Contact with the colony on Mars will
-be re-established and have nothing to
+记者乙：
+与火星殖民地的联系
+将重新建立，
 
 4
 00:00:15,653 --> 00:00:18,092
-do with the impending
-arrival of the mysterious aliens.
+这与神秘外星人
+即将到来的事件无关。
 
 5
 00:00:18,160 --> 00:00:20,452
-THIRD REPORTER
-The McCulloch space station
-has just been destroyed.
+记者丙：
+麦卡洛克空间站
+刚刚被摧毁。
 
 6
 00:00:20,524 --> 00:00:28,432
-[Overlapping News Reports]
+[新闻报道声交织]
 
 7
 00:00:28,500 --> 00:00:33,932
-FIRST REPORTER
-Paris, Peking, Reykjavik, and Tokyo
-head the list of recently devastated cities.
+记者甲：
+巴黎、北京、雷克雅未克和东京
+位列近期被摧毁城市名单之首。
 
 8
 00:00:34,000 --> 00:00:35,405
-[Overlapping News Reports]
+[新闻报道声交织]
 
 9
 00:00:35,476 --> 00:00:40,922
-FOURTH REPORTER
-And the UA President gave the uplifting farewell
-speech as these brave soldiers took
+记者丁：
+UA(美国)总统发表了
+振奋人心的告别演说：
 
 10
 00:00:40,989 --> 00:00:44,000
-the fight to the Strogg's home planet.
+这些英勇的士兵们将战火带到了斯托格的母星。
 
 11
 00:00:44,000 --> 00:00:49,000
-We, the rest of humanity, wish
-them luck and Godspeed as well.
+我们，幸存的全体人类，
+祝他们好运，愿主保佑他们一路平安。
 
 12
 00:00:49,067 --> 00:00:51,067
-[Explosion]
+[爆炸声]
 
 13
 00:00:55,300 --> 00:00:58,000
-RED LEADER
-Mother Goose, Mother Goose,
-this is Red Leader Alpha Charlie 417.
+红队队长：
+鹅妈妈，鹅妈妈，
+这里是红队队长阿尔法查理417。
 
 14
 00:00:58,000 --> 00:01:00,000
-MOTHER GOOSE
-Gotcha on the scope Red Leader.
+鹅妈妈：
+在雷达上看到了，红队队长。
 
 15
 00:01:00,000 --> 00:01:02,000
-See that big bad dust ball up ahead?
+看到前面那个又大又坏的尘埃球了吗？
 
 16
 00:01:02,000 --> 00:01:04,000
-RED LEADER
-Roger that Mother Goose.
+红队队长：
+收到，鹅妈妈。
 
 17
 00:01:08,000 --> 00:01:09,000
-Target is acquired.
+目标已锁定。
 
 18
 00:01:10,000 --> 00:01:12,000
-Heading towards that
-point, X-Ray Lima Seven.
+正朝那个点前进，
+X射线利马七号。
 
 19
 00:01:28,500 --> 00:01:32,500
-COMMAND
-Deployment is green
-for Alpha, Bravo...
+指挥部：
+阿尔法小队、布拉沃小队……
+部署许可。
 
 20
 00:01:32,568 --> 00:01:36,050
-FIRST CREW
-There's [unintelligible] surface
-surface EZ still looks clean...
+第一机组人员：
+有[听不清]地表，
+地表EZ看起来还很干净……
 
 21
 00:01:37,380 --> 00:01:39,969
-[Overlapping Command Ship Checks]
+[指挥舰检查声交织]
 
 22
 00:01:40,037 --> 00:01:40,980
-SECOND CREW
-The pitch check confirmed.
+第二机组人员：
+俯仰角检查已确认。
 
 23
 00:01:41,124 --> 00:01:43,909
-SERGEANT
-[Unintelligible] shit
-Marines are dangerous!
+中士：
+[听不清]妈的，
+陆战队员们很危险！
 
 24
 00:01:44,108 --> 00:01:45,975
-FIRST LAUNCH CREW
-Let the sky divide.
+第一发射组人员：
+让天空裂开吧。
 
 25
 00:01:49,300 --> 00:01:52,000
-SECOND LAUNCH CREW
-Negative! His shit's wire.
-Wake his ass up.
+第二发射组人员：
+不行！他妈的，他还没准备好。
+把他叫醒。
 
 26
 00:01:55,452 --> 00:01:58,610
-THIRD LAUNCH CREW
-Alright Bitterman, you are
-in the green and ready to go.
+第三发射组人员：
+好了，比特曼，
+你已就绪，可以出发了。
 
 27
 00:02:01,422 --> 00:02:03,073
-OTHER MARINE
-Yeeeehaaaaaa
+其他陆战队员：
+咿——哈——
 
 28
 00:02:03,451 --> 00:02:05,000
-BITTERMAN
-Shit! What was that?
+比特曼：
+该死！什么玩意？
 
 29
 00:02:06,108 --> 00:02:08,000
-Command, I got a problem here.
+指挥部，我这里出了点问题。
 
 30
 00:02:08,669 --> 00:02:11,000
-Some cowboy clipped
-me on the way in man.
+有个牛仔在路上
+撞了我一下。
 
 31
 00:02:11,000 --> 00:02:13,500
-Pressures are at 50% and dropping.
+压力只有50%了，还在下降。
 
 32
 00:02:16,166 --> 00:02:20,768
-COMMAND
-Copy Bitterman. Your stats are
-nominal but proceed to designated target LZ.
+指挥部：
+收到，比特曼。你的数据正常，
+但请继续前往指定的目标着陆区。
 
 33
 00:02:21,068 --> 00:02:24,000
-We'll see what we
-can... holy shit! Bitterman!
+我们会看看能……
+我靠！比特曼！
 
 34
 00:02:24,000 --> 00:02:26,753
-Bitterman! What the hell is going on?
+比特曼！到底发生了什么？
 
 35
 00:02:26,927 --> 00:02:31,522
-We just lost a third of the platoon
-just as they crashed sector Niner X-ray.
+我们这个排损失了三分之一，
+他们刚坠毁在九号X射线区。
 
 36
 00:02:31,547 --> 00:02:33,885
-We got a visual on any AA discharge?
+我们有谁看到什么防空炮火吗？
 
 37
 00:02:33,974 --> 00:02:37,489
-BITTERMAN
-Negative command, I'm approaching
-Niner X-Ray right now.
+比特曼：
+没有，指挥部，
+我正接近九号X射线区。
 
 38
 00:02:37,514 --> 00:02:39,188
-And there's no heat from the ground.
+而且地面没有热源。
 
 39
 00:02:39,213 --> 00:02:40,627
-OTHER MARINE
-They're coming at me from all angles!
+其他陆战队员：
+他们从四面八方向我冲过来了！
 
 40
 00:02:40,652 --> 00:02:43,599
-BITTERMAN
-I just crossed the board
-around 10 seconds ago.
+比特曼：
+我大概10秒前
+才越过边界。
 
 41
 00:02:43,624 --> 00:02:47,362
-COMMAND
-Damn it! They've got a
-little freaky EMP down there.
+指挥部：
+该死！他们下面
+有个奇怪的电磁脉冲。
 
 42
 00:02:47,393 --> 00:02:49,614
-Getting clipped just
-saved your ass marine.
+陆战队员，
+被撞一下反而救了你的命。
 
 43
 00:02:49,916 --> 00:02:52,384
-I just lost all readings
-for the rest of the platoon.
+我刚刚失去了这个排里
+其他所有人的读数。
 
 44
 00:02:52,646 --> 00:02:57,876
-Try and get to the primary LZ and rendezvous
-with any other squad leaders you can find.
+试着前往主着陆区，
+与你能找到的任何其他小队队长会合。
 
 45
 00:02:57,954 --> 00:03:01,000
-BITTERMAN
-Shit! Just overshot LZ, Command.
+比特曼：
+该死！刚飞过了着陆区，指挥部。
 
 46
 00:03:01,817 --> 00:03:03,000
-Command, you copy?
+指挥部，你收到了吗？
 
 47
 00:03:03,672 --> 00:03:10,000
-Christ, this thing is a brick! I have no
-flight control. Repeat! No flight control!
+天哪，这玩意儿成了块砖头！
+我失去飞行控制了。重复！失去飞行控制！
 
 48
 00:03:10,083 --> 00:03:13,000
-I'm south of the LZ, nearing
-the southern structure!
+我在着陆区以南，
+接近南部建筑！
 
 49
 00:03:13,032 --> 00:03:15,000
-Ready for crash landing!
+准备迫降！
 
 50
 00:03:15,000 --> 00:03:17,000
-Command! [signal breaking]
+指挥部！[信号中断]
 
 51
 00:03:19,595 --> 00:03:20,000
-Copy?
+收到了吗？
 
 52
 00:03:20,000 --> 00:03:24,000
-Command, come in!
-I have no flight control!
+指挥部，请回答！
+我失去了飞行控制！
 
 53
 00:03:25,214 --> 00:03:28,023
-[Explosion]
+[爆炸声]
 
