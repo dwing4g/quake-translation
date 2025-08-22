@@ -1,0 +1,994 @@
+2 minutes to detonation...
+30 seconds to detonation...
+60 seconds to detonation...
+90 seconds to detonation...
+A secret door has opened!
+A secret door has opened elsewhere.
+A secret is revealed!
+Access bridge lowered.[br]Find service elevator to[br]Factory.
+Access Central Computer[br]keyboard to return[br]data spinner.
+ACCESS DENIED[br]This gate is opened elsewhere.
+Access denied!
+Access denied.
+Access denied.[br]Enter from above.
+Access denied.[br]Toxic conditions present.
+access denied:[br]cooling system online.
+access denied:[br]cooling systems active.
+access denied:[br]energy core online.
+access denied:[br]mission objectives incomplete.
+Access denied by Sector 2 Security.
+Access Door Locked
+Access granted to[br]Pumping Station One.
+Access granted to[br]Research Lab.
+Access keyboard[br]to return Data Spinner.
+Access Logistics complex.[br]Locate Detention Block.
+Access now possible to launch system
+Access to Big Gun denied.
+Access to Toxic Waste Dump[br]denied.
+Acquire blue key card[br] to proceed to Logistics.
+Acquire key card and [br] destroy all resistance.
+Acquire the Anti-Matter[br]pod.
+Acquire the Anti-matter[br]pod.
+Activate Anti-matter[br]Core creator.
+Activate cooling pump to[br]lower coolant around[br]reactor.
+Activate incinerator and[br] break containment glass.
+Activate mine machinery to[br]gain access to[br]Drilling Area.
+Airstrike incoming in: 1
+Airstrike incoming in: 10
+Airstrike incoming in: 2
+Airstrike incoming in: 3
+Airstrike incoming in: 4
+Airstrike incoming in: 5
+Airstrike incoming in: 6
+Airstrike incoming in: 7
+Airstrike incoming in: 8
+Airstrike incoming in: 9
+All power cubes collected.[br]Return to Ammo Depot.
+All systems have been shut down
+Anti Aircraft Gun Reprogrammed!
+Anti-matter container machine activated.
+Anti-matter Core created.[br]Containment Pod needed.
+Anti-matter core creation initiated.
+Array controls locked.
+auto-pilot engaged.
+Backup power re-routed.
+Barrett Alexander - Biz
+Barrier Neutralized.
+Bio processing control[br]unit deactivated.
+Bio-compression[br]chamber deactivated.
+Bridge access denied.
+Bridge activated.
+Bridge enabled.
+Bridge extended.
+Bridge power activated.
+Bring uplink online using[br] communications terminal.
+Building integrity compromised.
+Canyon entrance to[br] Logistics is now[br]accessible.
+Cargo doors locked.
+Cargo doors sealed.
+Cargo lift activated.
+Cart track active.
+Cell protective field[br]offline.
+Chamber 1 deactivated
+Chamber 2 Deactivated
+Close main hangar bay door.[br]Destroy blackhole generator.
+Collect disk and[br]return to[br]Tactical Command.
+Collect the 4 power[br]cubes to restore power[br]to the warehouse.
+Communication uplink established.
+Compression chamber activated.
+Conduit lockdown in 10 seconds.
+Conduit locked.
+Console inactive, insufficient power.
+Containment bulkheads activated.
+Containment fields deactivated.
+Continue to the[br]Munitions Plant.
+Control area[br]access denied.
+Control room[br]access granted.
+Control room access denied.
+Conveyor activated.
+Coolant pumps activated.[br]Drill online.
+Coolant system not active - Access Denied
+Coolant systems drained.[br]Return to the Reactor.[br]
+Coolant Tank flooded, console inactive.
+Coolant tank opened.
+Coolant tank sealed.
+Cooling system disabled.
+Core access[br]Doors activated.
+core access hatch[br]lock 2 opened.
+Core CPU is no longer functional
+Core creation complete.
+Core Disabled. Force fields offline.
+Core insertion complete.
+Core insertion module activated.
+Crane activated.
+Crane is now online.
+Crane off line.
+Crate mover activated.
+%bind:+movedown:$m_crouch%Crouch here.
+Crusher activated.
+Data CD accepted.[br]Activate[br]communications laser.
+Data Disc uploaded.[br]Teleporter destination redirected.
+Data Disc accepted.
+Data Disc acquired.
+Data disk acquired.[br]Return to Logistics.
+Data Spinner[br] is now reprogrammed.
+Data Spinner inserted for reprogramming.
+Deactivate green security[br]lasers.
+Detention block located.
+The Dopefish lives again!
+Destroy all 16 wall[br]  nodes in this area.
+Destroy all resistance!
+Destroy all resistance.
+Destroy any[br]remaining resistance.
+Destroy Big Gun.
+Destroy containment glass[br]to activate ventilation.
+Destroy resistance.
+Destroy Strogg[br]logistical train.
+Destroy the[br] gravity well.
+Destroy the blackhole[br]generator.
+Destroy the computer panel.
+Destroy the computers.
+Destroy the security[br]grid protecting[br]the industrial region.
+Disable laser grid and[br] obtain commander's head.
+Disable power to [br] transport shuttle security.
+Disable security lasers [br] to obtain power cube.
+Disarm Yellow Forcefields
+DNA not on file...
+Docking station[br]access denied.
+Door access granted.
+Door opens nearby.
+Door unlocked.
+Doors are sealed.
+Doors locked.
+Doors sealed.
+Drilling area. Access denied.
+Electric current nullified.[br]Proceed to main warehouse.
+Electrical systems unstable.
+Elevator shaft sealed.
+Bridge crew deactivated...
+Eliminate all resistance.
+Eliminate Tank Commander[br] and retrieve its head.
+Emergency exit[br]unlocked.
+Emergency exit[br]sealed.
+Emergency power core[br]locks released.
+Emulsifying flesh press[br]unit deactivated.
+Enemy processing unit[br]deactivated.
+Energy core offline.
+Engage and destroy[br]the Black Widow[br]guardian.
+Equipment Failure!
+Escape pod sealed.
+Escape the rising lava.
+Establish communication[br]link to command ship.
+Evacuate area!  Radiation[br] levels toxic!
+Evacuate immediately.
+Extreme caution is advised.
+Fighter lift lowered.
+Fighter lift raised.
+Filtration sector access denied!
+Filtration sector opened.
+Filtration vents activated.
+Find a way into the main[br]hangar bay installation.
+Find and activate reactor[br] to start filtration system.
+Find and disable the[br]power core.
+Find cargo lift to[br] Maintenance Hangars.
+Find Comm Center to [br]retrieve orders.
+Find Communications Laser[br]Data CD in Upper Palace.
+Find control center for[br]Stabilizer wall nodes.
+Find entrance location [br] and destroy all resistance.
+Find Entrance to[br]Ammo Depot.
+Find entrance to[br]Gravity Well.
+Find entrance to[br]Power Station.
+Find entrance to[br]Processing Plant.
+Find entrance to[br]Supply Station.
+Find exit to [br]Thaelite Mines.
+Find functioning[br]Data Spinner[br]in Outer Courts.
+Find reactor.[br]Expose reactor core.
+Find secondary route[br] into Maintenance Hangars.
+Find security console and[br]deactivate red lasers.
+Find Security Pass[br]for Ammo Depot.
+Find the security pass[br]located in the[br]Torture Chambers.
+Find the yellow laser[br]control computer.
+Find your way to the[br]Thaelite Mines.
+First half of unit[br]objective complete.
+Force field controlled by the [br] launch computers.
+Forcefield deactivated.
+Forcefield now disabled
+Forcefields deactivated.
+Fork lift activated, windup in progress.
+Gain access to[br]Research Hangar
+Gain access to [br] Logistics Complex.
+Gain access to Maintenance[br] Hangars.
+Gain access to the[br] Waste Disposal plant.
+Gain access to Waterfront [br] Storage Facility.
+Gain access via[br]broken pipe in[br]canyon.
+Gain entrance to[br]the Tectonic Stabilizer.
+Gain entrance to waste[br]disposal control.
+geo-stabilizers[br]deactivated.
+Geothermal power online.
+Geothermal station[br]access denied.
+Go to the Cooling Facility.[br]Lower coolant for reactor.
+Go to Toxic Waste Dump.[br]Activate pumping stations.
+Gondola activated.
+Gondola prep sequence complete.
+Gondola systems activated.
+Grab the passcard and[br]return to the security[br]complex.
+Gravity generator deactivated.
+Gravity generator disabled.
+Gravity Well Access denied!
+Hangar access denied.
+Hangar bay open, ground access denied.
+Hangar lift activated.
+Hangar lift door opened.
+Humanoid life form detected.
+Humanoid life form detected...
+Humanoid lifeform detected!
+Incinerator Activated.
+Incinerator access granted.
+Incoming marine D.O.A.[br] Carry out his orders.
+Infiltrate and destroy[br]Strogg main reactor.
+Insert Data Spinner[br]in next console.
+Interrupt Strogg[br]fighter communications.
+Ionization catalyst[br]chamber deactivated.
+Kill the Tank Commander to[br]retrieve the Security Pass.
+Laser activated.
+Laser activated.[br]Bring communications[br]terminal online.
+Laser control locked.
+Laser drill activated.
+Laser drill inactive.
+Laser guard locked down.
+Laser inactive.[br]Mirrors locked.
+Laser power interrupted.
+Launch systems destroyed.[br]Force field disabled.[br]Proceed to exit.
+Level 1 defences deactivated.
+Lift access denied.
+Lift accessible.
+LIft activated.
+Lift activated.
+Lift enabled.
+Lift inactive.
+Locate a powerful weapon.
+Locate an open[br]escape pod.
+Locate and activate[br]incinerator.
+Locate and destroy[br]Strogg leader.
+Locate and destroy[br]grid control computer.
+Locate and enable satellite[br] uplink to capital ship.
+Locate and place the[br]Airstrike Marker.
+Locate and use exit[br] from Palace.
+Locate base installation[br]elevator.
+Locate blue keycard.
+Locate canyon entrance [br] to Logistics complex.
+Locate communication center.
+Locate hangar control.[br]Close main hangar bay door.
+Locate pyramid key[br] then return to the[br]security complex.
+Locate red key card in the[br]security complex.
+Locate Repair facility.[br]Steal Commander's head.
+Locate security computer[br] and disable door locks.
+Locate unit exit[br]and kill all resistance.
+Lock down laser guard.
+Look up!
+Lower access bridge.[br]Find service elevator to[br]the Factory.
+Magnetic lift activated.
+Main factory door impassable.
+maintenance access hatch[br]lock 1 opened.
+Maintenance bridge[br]activated.
+Maintenance doors sealed.
+Maintenance Hangar access denied!
+Maintenance Hangar doors sealed.
+Maintenance passage[br]opened.
+Maintenance passage closed.
+Maintenance systems activated.
+Maintenance train activated.
+Make your way to the[br]mine entrance.
+Mine doors are locked.
+Mine doors opened.
+Mine machinery inoperative.
+Mission accomplished.[br]Return to Waterfront Storage
+Move to main hangar bay[br]installation.
+Navigate mines.[br]Find entrance to the[br]Factory.
+Neutralize Strogg Leader's[br] Communication System.
+New heading accepted.
+New orders will[br] be forthcoming.
+New passage to lower[br]mines created.
+New program accepted.
+Objective complete.
+Objective complete.[br]Return to the hangar.
+Obtain Anti-matter[br]Pod from Ammo Depot.
+Obtain Anti-matter Core.
+Obtain data disk[br]destroy all resistance.
+Obtain the Data CD[br]from the Upper Palace.
+Open control pyramid[br]and locate the[br]security pass.
+Open primary entrance.
+Ore cleansing in progress.
+Ore mover activated.
+Ore stabilization in progress.
+Organic material[br]liquifier deactivated.
+Overflow doors sealed.
+Penetrate the outer[br]jail defenses.
+Phase array active.
+Phase arrays offline.
+Phase arrays online.
+Pick up marker and[br]place it near AA turret.
+Place airstrike marker[br]in the receptacle beside[br]the fuel pod.
+Place data disk into[br]transmitter terminal.
+Plant access granted.
+Plant door is locked.
+Plasma emissions detected.
+Player was electrocuted.
+Power center opened.
+Power conduit accessible.
+Power core locks in place
+Power Core venting[br] in progress.
+Power cubes needed[br]to restore power.
+Power disrupted, security network offline.
+Power terminal sealed.
+%bind:+moveup:$map_jump_ladder%%bind:+movedown:$map_crouch_ladder%Press and hold jump[br]to climb ladders.
+Hold jump to move up ladders.
+Hold crouch to move down ladders.
+Press button to[br]activate lift.
+%bind:+moveup:$map_jump_ladder%%bind:+movedown:$map_crouch_ladder%Press and hold jump[br]to climb ladders.
+Primary Entrance Door open!
+Primary unit[br]objective complete.
+Primary unit objective[br]complete.
+Primary unit objective[br]completed.
+Primary unit objectives[br]complete.
+Proceed directly to[br]the Warehouse.
+Proceed to[br]Detention Center.
+Proceed to [br] Waterfront Storage Facility.
+Proceed to[br]Waste Processing.
+Proceed to Big Gun.
+Proceed to entrance [br] of Control Center.
+Proceed to next[br]combat unit.
+Proceed to Pumping Stations.[br]Activate stations one[br]and two.
+Proceed to reactor core.[br]Kill all resistance.
+Proceed to security pyramid.
+Proceed to surface.
+Proceed to the Factory.
+Proceed towards the[br]Munitions Plant.
+Proceed with caution
+Pull the power cube[br]to deactivate yellow[br]forcefields.
+Pump controls inactive.
+Pump deactivated.
+Pump inactive.
+Pump room door is locked.
+Pumping Station One[br]activated.
+Pumping Station Two[br]activated.
+Pumping systems inactive.
+Pursue Makron to[br]Inner Chamber.
+Pyramid key acquired.[br]Return to security complex.
+Quarantine fields[br]offline.
+Radiation levels rising,[br] area quarantined.
+Reactor activated.
+Reactor core locks released.
+Realign satellite array[br]to interface with[br]capital ship.
+Recover the secret weapon.
+Red force fields deactivated.
+Red forcefields deactivated.
+Red key card now accessible.
+Rendevous at entrance [br] with incoming marine.
+Reprogram and destroy[br]Anti-Aircraft Gun.
+Reprogram Data Spinner[br]at Central Computer.
+Repulsor deactivated.[br]Access granted.
+Repulsor field active.
+Restore power to key[br]warehouse components.
+Resume previous mission.
+Retrieve an[br]Airstrike Marker.
+Retrieve the airstrike[br]marker.
+Retrieve the data CD from[br]Cell Block A and gain[br]access to Cell Block B.
+Retrieve the Security Pass.
+Return and collect[br] data disk.
+Return to[br]Receiving Area.
+Return to Anti-matter[br]Core creator for[br]Core.
+Return to elevator shaft.[br]Proceed to Drilling Area.
+Return to Hangar.[br]Use Commander's head to[br]gain further access.
+Return to Lower Mines.
+Return to Munitions Plant.
+Return to sewer via pipe.
+Return to the[br]detention center.[br]Deactivate yellow lasers.
+Return to the[br]security complex.
+Return to Waterfront[br] Storage Facility.
+Scan initiated.
+Scanner inactive.
+Secondary Ammo Depot entrance opened.
+secondary power[br]systems off-line.
+Secret Area! [br] You Crazy Rocket Jumpers!
+Sector 1 security deactivated.
+Sector 2 security[br] disabled.
+Sector 2 security disabled.
+Secure Experimental Fighter.
+Security access granted.
+Security and Access Doors Unlocked!
+Security breach[br]detected.
+Security counter measures activated.
+Security counter measures deactivated.
+Security door locked.
+Security doors[br]deactivated.
+Security doors locked.
+Security doors offline.[br] Proceed to shuttle.
+Security doors opened.
+Security doors sealed.
+Security doors unlocked.
+Security fields offline.
+Security forcefields activated.
+Security grid destroyed.
+Security lasers deactivated.
+Security lasers disabled.
+Security lasers on. Power cube secure.
+Security lockdown in effect.
+Security locks disabled.[br]Find Anti-matter pod.
+Security measures[br]disabled.
+Security measures are offline.
+Security Pass accessible.
+Security pass approved. [br]You may enter force field control.
+Security pass grants[br]access to[br]force field control chamber.
+Security pass required[br]to deactivate yellow force fields.
+Service elevator to[br]Factory accessible.
+Shoot barrels to[br]make them explode.
+Shoot button to[br]open a secret area.
+Shut down alien[br]processing plant.
+Shut down all machines.
+Shut down communication[br]laser in Upper Palace.
+Shut down the[br] Tectonic Stabilizer.
+Shut off the coolant[br]to the CPU Core.
+Shuttle inactive.
+Shuttle inactive, destination reached.
+Shuttle power online.
+Something feels off here, as if[br]it came from a different time...
+Thank you for playing.[br]Quake II will always rule the cosmos!
+Something just fell in a container.
+Stabilizer breach immenent.[br] 45 seconds to collapse.
+Stabilizer malfunction.[br] Evacuate area!
+Stabilizer Pump #1 shutdown.
+Stabilizer Pump #2 shutdown.
+Stabilizer Pump #3 shutdown.
+Storage area sealed.
+Storage section b[br]access denied.
+Strogg bio-assimilation[br]tank deactivated.
+Strogg Bio-Maintenence Chamber activated
+Strogg fighter[br]communications scrambled.
+Strogg uniform obtained.[br]Proceed freely.[br]Hold your fire!
+Surface access[br]denied.
+Take out the[br]communications dish.
+Take out the blackhole[br]generator computers.
+Take the Airstrike Marker[br]from the Gladiator.
+Tank commander's head needed at scanner.
+Target destroyed.[br]Proceed to exit.
+Tectonic Stabilizer access opening.
+Teleporter access denied.
+Teleporter unlocked.
+Terminal locked.[br] Initiate communications sequence.
+Terminal locked, data disk required.
+Terminal offline.
+The core CPU has locked this door
+The gate is blocked by debris.
+This door cannot be opened from here.
+This door is locked.
+This door is locked.
+This door is locked from the inside
+This door is opened elsewhere
+This door is opened elsewhere.
+This door locked.
+This force field is[br]deactivated elsewhere.
+This force field is activated[br]by the communication laser.
+This is the end of the unit.
+%bind:+wheel2:$map_item_wheel%This item must be activated to use it.
+Open Equipment Wheel
+Toxic conditions found in[br]lower mines. Activate[br]ventilation systems.
+Track disabled.
+Tracks disabled.
+Transfer pump online.
+Transport accessible.[br]Proceed to Logistics.
+Turbine shut down.
+Turn off all 3 auxiliary[br]coolant pumps.
+Unauthorized entry[br]detected.
+Unstable conditions ahead.[br]Proceed with caution.
+Uplink to capital ship[br] to reprogram data disk.
+Use air vent to[br] gain access to[br] bridge controls.
+Use Anti-matter Bomb[br]to destroy Gravity Well.
+Use anti-matter bomb[br] to destroy gravity well.
+Use blue keycard to[br]gain access to the[br]detention center.
+Use blue key-card to enter[br]alien bunker installation.
+Use Cargo elevator[br] to enter Warehouse.
+Use Cargo lift to re-enter[br]Maintenance Hangars.
+Use Containment[br]Pod to house[br] Anti-matter Core.
+Use exit tunnel below[br]to enter Stabilizer.
+Use fighter lift to[br]enter upper levels.
+Use flooded entrance[br] area to exit.
+Use flow control valves[br] to flood entrance area.
+Use Gondola to enter[br] Gravity Well.
+Use key card to[br] open cargo doors.
+Use Med Scanner to encode system access
+Use overflow tunnel[br]to access hangars.
+Use power cube to [br]bring crane online
+Use secondary exit[br]to return to[br]Ammo Depot.
+Use Security Pass[br]to retrieve[br]Containment Pod.
+Use sewer tunnels to gain[br]access to the Comm Center.
+Use the security pass[br]to access the[br]Tectonic Stabilizer.
+Use transport shuttle to [br] enter Tactical Center.
+Use underground train.
+Use ventilation fan shaft[br] to access Hangar.
+Valve opened.
+Vent pipe access denied.
+Vent pipe access granted.
+Ventilation fan inactive.
+Ventilation systems active.[br]Lower levels accessible.
+Wall node forcefields off.
+Warehouse access denied.
+WARNING![br]Liftoff in progress.
+Warning. Communication laser shut down.
+Waste conveyor activated.
+Waste drain opened.
+Waste storage and processing opened.
+Welcome to the id Gallery!
+Yellow Force Fields Deactivated.
+Yellow force fields deactivated.
+Yellow forcefields deactivated.
+Yellow lasers disabled.
+Yellow lasers still activated[br]further access not granted.
+You activated the Ore Mover.
+You found a secret!
+You found a secret!
+You found a secret item!
+You found a secret item!
+You found a secret level!
+You found a secret level!
+You found a secret!
+You found a secret.[br]Gun trap is deactivated.
+You found a secret area!
+You found a secret area!
+You found a secret level!
+You found a secret passage!
+You triggered[br]a secret!
+You opened a secret!
+You opened a secret area!
+You released the Mutant!
+You've changed the passages.
+You found a secret!
+You found a secret!
+You opened a secret!
+You've triggered the Slime!
+You've triggered the trap.
+Jonatan Pöljö[br]Enhanced Models & Additional Art
+A door has opened.
+A secret area has been revealed.
+A secret room.
+Access valve A opened.
+Access valve B opened.
+Adjusting mirror.
+Airstrike incoming in:  1
+Airstrike incoming in:  2
+Airstrike incoming in:  3
+Airstrike incoming in:  4
+Airstrike incoming in:  5
+Airstrike incoming in:  6
+Airstrike incoming in:  7
+Airstrike incoming in:  8
+Airstrike incoming in:  9
+Auto destruct in 20 seconds.
+Auto destruct in 30 seconds.
+Blue forcefield deactivated.
+Continue through sewers[br]eliminate all resistance.
+Conveyor belt maintenance[br]hatch opened.
+Core Reactor is offline.[br]Return to Cargo Bay and[br]exit Moon Base.
+Counter strike fleet is[br]located on Stroggos Moon.[br]Proceed to Industry Complex.
+Data CD not retrieved.[br]Return to Outer Compound.
+Deactivate forcefield from[br]hangar control grid.
+Deactivate Strogg[br]production facility.
+Destroy Strogg fuel[br] production facility.
+Disable induction coils[br]and lock down[br]Moon Base thermal reactor.
+Downloading location of Strogg[br]strike fleet.
+Draining...
+Eliminate enemy resistance.
+Enter Intelligence HQ.[br]Discover location of Strogg[br]counter strike fleet.
+...filtering.
+Find outer airlock.[br]Prepare for touchdown.
+Flood hatch switched.
+Floodgate locked
+Gain access to[br]Intelligence HQ through[br]water storage system.
+Gain access to[br]Strogg Fortification.
+Gain access to Outer[br]Compound through sewers.
+Gain access to upper hangar[br]through main freight[br]elevator.
+Gain entrance[br]to Refinery.
+Incoming Airstrike
+Induction coils disabled.[br]Take the Core Reactor[br]offline.
+Infiltrate Command Center[br]and destroy the[br]Moon Base.
+Infiltrate main[br] security complex.
+Initiating auto[br]destruct sequence
+Invalid access code...
+Join with remaining[br]members of strike team.[br]Find Data CD.
+Kill enemy resistance.
+Laser not in up position.
+Laser security grid deactivated.
+Lasers deactivated.
+Lift is activated elsewhere.
+Live food processing[br]terminated.
+Locate a newly[br]available ship before[br]the Moon Base explodes.
+Locate alternate entrance[br]to Refinery.
+Locate control room.[br] Obtain Red Key.
+Locate Gekk Lair.[br]Retrieve Airstrike Marker.
+Locate Green Keycard.
+Locate stolen[br] airstrike marker.
+Locate Strogg freighter.
+Locate Strogg Spaceport.[br]Infiltrate moon bound[br]freighter.
+Locate the Main[br]Intelligence computer[br]processing core.
+Locate transportation out[br] of industrial region[br] Destroy all resistance.
+Locked by security.
+Maintenance hatch[br] override enabled.
+Maintenance hatch locked.
+Maintenance hatch opened.
+Moving the laser.
+No prize for you Rocketman
+Overflow doors opened.
+Overflow valve maintenance[br]hatch opened.
+Overflow valve opened.
+Overflow valve sealed.
+Power cube chamber open.
+Power cubes retrieved.[br]Return to Inner Compound.
+Primary flood gates opened.
+Primary mission completed.
+Proceed to Intelligence HQ.
+Proceed to Intelligence HQ.[br] Eliminate all resistance.
+Proceed to main[br]freight elevator.
+Proceed to Outer Base.
+Proceed to Refinery.
+Provide ground support[br] for precision airstrike.
+Pumping station activated[br]Proceed to Warehouse.
+Pursue airstrike marker to[br] Water Treatment Plant.
+Raising Security bridge.
+Resume search for[br]Strogg freighter.
+Retrieve power cubes[br]from Core Reactor.
+Return to Industrial[br]Facility. Locate stolen[br]airstrike marker.
+Secondary flood gate opened.
+Secure freighter[br]for touchdown.
+Security door is locked.
+Security door is unlocked.
+Security door unlocked.
+Security fence active.[br]Locate alternate entrance[br] to compound.
+Security force fields deactivated.
+Security forcefield active.[br]Find alternate access[br]through shipping area.
+Security has sealed[br]the main entrance.[br]Find an alternate route.
+Security ladder extended.
+Security lift activated.
+Security override.[br]Exit airlock opened.
+Sentry bridge extended.[br]Laser fields deactivated.
+Attack enemies while unseen to deal double damage.
+Storage tank door is now open.
+Storage tank door is sealed.
+Storage tank door is sealed.[br]Lower water levels first.
+Storage tank water[br]level has been lowered.
+Stow away in unused[br]shipping container.
+System is not operating.
+System is not powered.[br]Power cubes from[br]Core Reactor are needed.
+Take Data CD and locate[br]base Intelligence center.
+Terminate self destruct[br]sequence. Return Power[br]Cubes to System core.
+The laser must be operating first.
+This button is not functioning.
+This door is not functioning
+This door is opened nearby.
+This door is sealed for transport.
+...This door opens nearby...
+This door opens nearby.
+Unlocked
+Use Data CD to discover[br]the location of the Strogg[br]counter strike fleet.
+Use Green Keycard[br]to activate[br]drainage system.
+Use power cubes[br]to activate[br]pumping station.
+Ventilation access denied.
+Ventilation access granted.
+You discovered a secret.
+You found a secret area.
+You found another secret.
+You have opened a secret area.
+You located a secret.
+You've discovered a secret.
+You've discovered a secret area.
+You've found a secret area!
+You've found a secret area.
+Mission Completed:[br]That was pretty good,[br]but can you do it with just[br]the Blaster?
+Shoot barrels to[br]make them explode.
+Shoot button to[br]open a secret area.
+Mission completed.[br]Proceed to Central Complex.
+%bind:+moveup:$map_jump_ladder%%bind:+movedown:$map_crouch_ladder%Press and hold jump[br]to climb ladders.
+Press button to[br]activate lift.
+Repulsor deactivated.[br]Access granted.
+Data Disc uploaded.[br]Teleporter destination redirected.
+WARNING![br]Liftoff in progress.
+Docking station[br]access denied.
+ACCESS DENIED:[br]Mission objectives incomplete.
+Mission completed.[br]Proceed to Cargo Bay.
+Unauthorized entry[br]detected.
+Security measures[br]disabled.
+Security doors[br]deactivated.
+Control room[br]access granted.
+Emergency exit[br] unlocked.
+Emergency exit[br]sealed.
+Geo-stabilizers[br]deactivated.
+Quarantine fields[br]offline.
+Control area[br]access denied.
+Laser inactive.[br]Mirrors locked.
+Surface access[br]denied.
+Security breach[br]detected.
+You have triggered[br]a secret.
+Secondary power[br]systems off-line.
+Geothermal station[br]access denied.
+Storage section b[br]access denied.
+Coolant pumps activated.[br]Drill online.
+ACCESS DENIED:[br]Cooling system online.
+ACCESS DENIED:[br]Cooling systems active.
+Cell protective field[br]offline.
+ACCESS DENIED:[br]Energy core online.
+Maintenance access hatch[br]lock 1 opened.
+Core access hatch[br]lock 2 opened.
+Maintenance passage[br]opened.
+Core access[br]doors activated.
+Locate entrance to[br] the Badlands.
+Locate entrance to[br] Logistics Complex.
+Anti-Matter Bomb planted.[br]Escape to Research Hangar[br]using transport pod.
+Destroy the Gravity Well before[br]returning to the transport pod.
+1 more to go...[br]
+Par time is[br]----[br]1:40
+Mission 1:[br][br]Locate entrance to[br]Central Complex.
+Mission 2:[br][br]Find explosive charges.
+Mission 3:[br][br]Destroy security terminal[br]using charges.
+Mission 4:[br][br]Locate and use teleporter.
+Mission 5:[br][br]Locate Data Disc.
+Mission 6:[br][br]Proceed to Communications[br]Center.
+Mission 7:[br][br]Upload Data Disc[br]to command.
+Mission 8:[br][br]Use teleporter to travel[br]to orbital defense station.
+Mission 9:[br][br]Disable gravity generator.
+Mission 10:[br][br]Locate and retrieve[br]explosive charges.
+Mission 11:[br][br]Proceed to[br]Docking Station.
+Mission 12:[br][br]Destroy generators[br]with explosive charges.
+Mission 13:[br][br]Use Strogg ship[br]to escape.
+Mission 14:[br][br]Reprogram navigation[br] computers. Redirect to[br]Strogg moon.
+Mission 15:[br][br]Locate pod area.[br]Escape to Strogg moon.
+Mission 16:[br][br]Destabilize mining area.[br]Locate emergency[br]exit.
+Mission 17:[br][br]Find teleporter to[br]planet surface.
+Mission 18:[br][br]Redirect laser drill[br]to access Lower[br]Storage.
+Mission 19:[br][br]Infiltrate security booth.[br]Unlock security doors.
+Mission 20:[br][br]Locate freight elevator to[br]Processing Center.
+Mission 19:[br][br]Gain entrance to[br]Geothermal Station.
+Mission 20:[br][br]Activate geothermal[br]power systems.
+Mission 21:[br][br]Disable cooling systems[br]to cause overload.
+Mission 22:[br][br]Access detention center[br]through cooling pipe.
+Mission 22:[br][br]Locate entrance to[br]Strogg lab.
+Mission 24:[br][br]Disable the energy core.
+Mission 25:[br][br]Find transport train[br]to Strogg base.
+Mission 25:[br][br]Disable first[br]locking mechanism.
+Mission 26:[br][br]Disable second[br]locking mechanism.
+Mission 27:[br][br]Enter Access Conduits[br]using maintenance passage.
+Mission 28:[br][br]Locate remaining lock[br]to core entrance.
+Mission 29:[br][br]Entrance open.[br]Proceed to core.
+Mission 30:[br][br]Descend into core.[br]Locate entrance to[br]Strogg command.
+Mission 31:[br][br]Destroy the Guardians.[br]Shut down the core.
+You have 30 seconds...[br]collect what you can!
+Access[br] the Security Office.
+Access Denied.
+Access Denied: No Entry.
+Access Granted.
+Access the Comms Array.
+Gain entry to[br]the Security Office.
+Access uplink tower[br]to upload Strogg data.
+Accessing Red Keycard...
+Access Bridge Active.
+Acquire Data Disc from[br]Security Annex control room.
+Crane Conveyer activated.
+Decomposition Sluice activated.
+Aim the Orbital Gun.
+AI-SA Mainframe disabled.[br]All lasers deactivated.
+An ancient evil is awakened.[br]Find a way out!
+An ancient evil whispers to you...
+Ancient Carrier
+Anti Aircraft coordinates redirected.
+Arachnid
+Bloodstarved Mutant
+Blue Firewall powering down...
+Blue lasers disabled.
+Breach the Data Vault.
+Cell weapons are more effective[br]at penetrating Power Armor.
+Children of Makron
+Close Gate 2.
+Commander
+Communication Lost.[br]Survive!
+Complete the Trial.
+Complete the Tutorial.
+Congratulations![br][br]With the Masters of the Machine dead,[br]the Strogg are severed from their Maker.[br]Your work is done, vengeance has been[br]wrought upon the enemy, and you are lost[br]in the infinite cosmic void.
+Contact Lost.[br]Mission Failed.
+Control Room is locked.[br]Locate the Red Keycard.
+This door is controlled by the Carrier.
+%bind:+movedown:$m_crouch%Crouch to fit under obstacles
+Data Disc transferred to Uplink.
+Data transmitting...
+Defeat the System Administrator.
+Defeat the Gate Warden.
+Destroy the Strogg-Maker,[br]the Master of the Machine
+Defeat the Underminer.
+Destroy the jammers.
+Determine fate of[br]Badger Squad.
+Masters of the Machine
+Disable the Mainframe.
+Disable the Mainframe.
+Disable the Red Laser Grid.
+Disable the Forcefields.
+The door has been opened.
+Door opened.
+Downloading AI-SA Disc location...
+Drills have been shut down.[br]Find a way out of the ship[br]and return to Earth.
+Either destroy the shield,[br]or try to deal damage from behind.
+Energy shields disabled!
+Enter the Mainframe.
+Enter the security annex.
+Enter the[br]Comms Bunker.
+Enter the Slipgate.
+Entrance is flooded.[br]Activate pump station.
+ERROR: Only one gate can be open at a time.
+Escape from Megacorpse IV.
+Escape through the[br]coolant system.
+Explore the ancient temple[br]and escape.
+Explore the Pumping Station[br]to find the Legacy Head.
+Explore the upper sections.
+Find a way onboard the[br]Strogg ship and shut down[br]their drilling operation.
+Find an Entrance[br]through the Sewers.
+Find and destroy reactor[br]core to disable shields.
+Find and upload[br]Strogg data.
+Find missing Marines and[br]recover the Strogg[br]Data Disc.
+Find the Blue Key.
+Find the power cube[br]for the Uplink tower.
+Find the Red Key.
+Follow the pipes.
+Gain access to[br]deeper sections.
+Gain entry to[br]lower chambers.
+Garbage Carrier
+GATE 2 ERROR: Manual release required.
+Gate broken!
+Gate Warden
+Get access to the[br]Launch Systems room.
+Get to the Core.
+Grab Yellow Keycard.
+Green lasers disabled.
+Harvesters alerted!
+Infiltrate the Strogg Flesh[br]Labs and locate the[br]AI-SA Disc.
+Infiltrate and find[br]the junkyard location.
+Infiltrate Excavation Site[br]and gather seismic readings.
+Infiltrate Megacorpse IV.
+Insert Data Disc into[br]Comms Nexus Terminal.
+%bind:+wheel2:$map_item_wheel%Inventory items require activation
+It's stuck.
+Junkyard location acquired.
+Kill the Strogg Jammers.
+Laser deactivated.
+Laser Gate disabled.
+Laser Gates deactivated.
+Laser Grid disabled
+Locate the AI-SA Disc.
+Locate an Uplink Tower.
+Locate and kill the[br]Strogg Creator.
+Locate entrance to[br]security annex.
+Locate the AI-SA Disc.
+Locate the Data Disc[br]inside the[br]Security Annex.
+Locked.
+Locked.
+Long live the Dopefish!
+Lost contact with Unit MG-3.[br]Search the area to find[br]out what happened.
+Mainframe access denied.
+Makron
+Medic Commanders will spawn new monsters.[br]Consider them high priority.
+Medics will revive dead monsters.[br]Consider them high priority.
+Mining Laser active.[br]Avoid beam exposure!
+Mining Laser Lift activated.
+Mission completed.
+Modir
+More bodies. You are[br]getting closer. The disc[br]must be nearby.
+Most weapons won't penetrate[br]Power Armor effectively.
+Must be a control switch nearby...
+Must open nearby...
+Opens elsewhere.
+Opens elsewhere.
+Opens from the other side.
+Opens from the other side.
+opens from the other side.
+Firing Orbital Gun.
+Override lockdown initiated.
+Picked up Red Keycard.[br]You can now access the Mainframe.
+Picked up the Blue Keycard.
+Please do not shoot[br]level Designers and[br]their cats. Thanks!
+Power Cube release activated!
+Reach the bridge and[br]upload the data from[br]the main computer.
+Realign satellite dish.
+Realign satellite dish[br]before transferring data.
+Recover the Data Disc[br]and find a way to[br]upload its data.
+Red lasers deactivated.
+Red lasers disabled.
+Rendezvous[br] with your Squad
+Research Control Room access denied.
+Restoring AI-SA Back-Up...[br]Transferring to spare host...
+Resume previous mission.
+Resume previous objective.
+Retrieve Strogg Data Disc.
+Return to Comms Bunker.
+Satelite dish misaligned.[br]Realign the dish in the[br]Outer Complex before[br]transmitting data.
+Search the junkyard for[br]the Strogg Data Disc.
+Search through the[br]abandoned Strogg facility.
+Security Gate Disabled.
+Seismic Data recovered.[br]Attempt upload now.
+Servitor of Creation
+Servitors of Creation
+Sewer Access opened.
+Shoot to activate.
+Shoot weak objects[br]to break them.
+Closed during drilling.
+Sick Hops!
+Signal jammed!
+Signal unjammed!
+Stand by for[br]further instructions.
+Strogg Carrier
+Strogg jammers detected[br]in Moon core.
+Strogg Megatank
+Strogg Supertank
+Supply station unlocked!
+System error!
+Take back the Moon!
+Thank you for playing!
+Thank you Sandy
+...the Data Disc is located in the Mainframe...
+The drills have retracted.[br]You can access new areas[br]and continue your search.
+The manual gate release was successful.
+The Old Ones demand a[br]sacrifice or two...
+The System Administrator
+The Underminer
+There are many more secrets to uncover![br][br]Good luck in the adventure ahead!
+They are all lost.[br]Not only the dead.[br]Find that disc, Marine!
+This door opens elsewhere.
+Touch to activate
+Transmit targeting[br]data to HQ
+Transmit the Data.
+Transmit the Data Disc
+Transmitting.... System Admin...
+Travel to the[br]Temple of the[br]Strogg Creator.
+Trial #4
+Trial Complete!
+Unlock the Comms[br]Bunker entrance.
+Unlock the exit.
+Unlocked entrance to Lower Chambers.
+Uplink Tower Door open!
+Upload[br] The AI-SA Disc.
+Upload Data Disc[br]using terminal in[br]the Comms Bunker.
+Upload targeting data.
+Upload the Strogg Data.
+Uploading data...
+Uploading Data Disc...
+Use both buttons to open.
+Use the computer to print Key Pass.
+Use GATE 1 to[br]escape the refinery.
+Use Power Cube to[br]access Uplink tower.
+%bind:+wheel2:$map_item_wheel%Use the Compass in your inventory[br]to find your way forward
+Use the computer[br]terminals to review[br]mission data.
+Use the Red Keycard[br]to unlock the[br]control room.
+Push button to spawn a Medic.
+Push button to spawn[br]a Medic Commander
+Use to spawn an enemy with[br]a Power Screen
+Use to spawn an enemy with[br]a Power Shield
+Use Yellow Keycard to[br]return to Outer Complex.
+Won't budge...
+Yellow Firewall powering down...
+You found a secret area!
+You got the Blue Key.
+You got the Data Disc.
+You got the Red Key.
+You have entered the[br]belly of the beast.[br]Now, shut down those drills!
+You found a secret!
+You have the disc.[br]Find a way to upload its data.
+You have the disc.[br]Now, find a way to[br]upload its data.
+You picked up the Key Pass!
+You used the Blue Key.
+Your helmet-cam[br]shows multiple dead marines.[br]Try to find survivors.
+Janitor's Closet access denied.
+The Janitor
+Entering Captured Strogg Gateway...
+Deploy Marines from[br]the adjacent rooms[br]to collect data.
+Collect all data to[br]open a portal to[br]the Strogg-Maker.
+Travel to the Dimension of[br] the Machine and kill the[br]Strogg-Maker.
+OPERATION: Corpse Run[br][br]Press button[br]to deploy Marine.
+OPERATION: Laser Eyes[br][br]Press button[br]to deploy Marine.
+OPERATION: Ruined Earth[br][br]Press button[br]to deploy Marine.
+OPERATION: Wastelands[br][br]Press button[br]to deploy Marine.
+OPERATION: Firewall[br][br]Press button[br]to deploy Marine.
+OPERATION: Darkest Depths[br][br]Press button[br]to deploy Marine.
