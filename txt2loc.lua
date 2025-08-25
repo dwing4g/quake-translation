@@ -1,5 +1,5 @@
 -- luajit txt2loc.lua <input_e.txt> <input_c.txt> <input_loc.txt> <output_loc.txt>
--- luajit txt2loc.lua quake2_e.txt quake2_c.txt localization_quake2/loc_english.ori.txt localization_quake2/loc_english.txt
+-- luajit txt2loc.lua quake2_e.txt quake2_c.txt localization_quake2/loc_english.txt
 
 local trans = {
 	m_secrets = '秘密',
@@ -18,7 +18,7 @@ local trans = {
 	g_fact3_objective = '你有30秒……\\n尽可能多地收集！',
 }
 
-local t = {}
+local t, tc = {}, {}
 for line in io.lines(arg[1]) do
 	line = line:gsub('\r+$', '')
 	t[#t + 1] = line
@@ -31,15 +31,25 @@ for line in io.lines(arg[2]) do
 	if not e0 then
 		error 'ERROR: mismatch lines'
 	end
-	local e, en = e0:gsub('%[br%]', '\\n')
-	local c, cn = line:gsub('%[br%]', '\\n')
-	if t[e] and t[e] ~= c then
-		error('ERROR: mismatch translation: ' .. e0)
+	if e0 == '' then
+		if line ~= '' then
+			error('ERROR: mismatch blank line ' .. i)
+		end
+	else
+		if line == '' then
+			error('ERROR: mismatch blank line ' .. i)
+		end
+		local e, en = e0:gsub('%[br%]', '\\n')
+		local c, cn = line:gsub('%[br%]', '\\n')
+		if t[e] and t[e] ~= c then
+			error('ERROR: mismatch translation: ' .. e0)
+		end
+		if en ~= cn then
+			error('ERROR: mismatch [br] in translation: ' .. e0)
+		end
+		t[e] = c
+		tc[c] = true
 	end
-	if en ~= cn then
-		error('ERROR: mismatch [br] in translation: ' .. e0)
-	end
-	t[e] = c
 end
 if t[i + 1] then
 	error 'ERROR: mismatch lines'
@@ -49,10 +59,17 @@ local out = {}
 for line in io.lines(arg[3]) do
 	line = line:gsub('\r+$', '')
 	local p, e, q = line:match '^(map_.-")%s*(.-)%s*(".*)$'
+	if not e then
+		p, e, q = line:match '^(ach_[nd].-")%s*(.-)%s*(".*)$'
+	end
 	if e then
 		local c = t[e]
 		if not c then
-			error('ERROR: not found translation: ' .. e)
+			if tc[e] then
+				c = e
+			else
+				error('ERROR: not found translation: ' .. e)
+			end
 		end
 		out[#out + 1] = p .. c .. q
 	else
@@ -65,7 +82,7 @@ for line in io.lines(arg[3]) do
 	end
 end
 
-local f = io.open(arg[4], 'wb')
+local f = io.open(arg[4] or arg[3], 'wb')
 f:write(table.concat(out, '\r\n'), '\r\n')
 f:close()
 

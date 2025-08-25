@@ -992,3 +992,32 @@ OPERATION: Ruined Earth[br][br]Press button[br]to deploy Marine.
 OPERATION: Wastelands[br][br]Press button[br]to deploy Marine.
 OPERATION: Firewall[br][br]Press button[br]to deploy Marine.
 OPERATION: Darkest Depths[br][br]Press button[br]to deploy Marine.
+
+Establish Communications
+Quake II: Establish a communication link to the command ship.
+Destroy Strogg Logistical Train
+Quake II: Destroy the Strogg logistical train and restore power to key warehouse components.
+Destroy Security Grid
+Quake II: Enter the security pyramid and destroy the security grid protecting the industrial region.
+Navigate the Mines
+Quake II: Navigate the mines to find a service entrance to the factory.
+Shut Down Processing Plant
+Quake II: Shut down all machines in the Strogg processing plant.
+Destroy Strogg Main Reactor
+Quake II: Infiltrate and destroy Strogg main reactor.
+Destroy the Big Gun
+Quake II: Find and destroy the Strogg's planetary defense system, the Big Gun.
+Destroy Black Hole Generator
+Quake II: Close main hangar bay door and destroy the Black Hole Generator.
+Assassinate the Makron
+Quake II: Neutralize Strogg leader's communication system.
+Disc Collector
+Call of the Machine: Collect all six Data Discs, and defeat the Strogg Creator.
+Destroy the Moon Base
+The Reckoning: Infiltrate the Strogg Moon Base, and destroy the fleet.
+Anti-Gravity
+Ground Zero: Find and eliminate the Strogg's great weapon, the Gravity Well.
+Shut Down the Core
+Quake II 64: Enter an alternate timeline, and destroy the Guardians.
+Quad Machine
+No Strogg will stand in my way of complete domination.
